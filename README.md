@@ -15,7 +15,7 @@ For packages see [requirements.txt](requirements.txt)
 
 # Data
 
-LA-ICP-MS imaging data as ASCII files (comma seperated)
+LA-ICP-MS imaging data as plain text files (comma-separated values)
 
 Condition 1 = fresh frozen (FF)
 Condition 2 = room temperature vacuum dried and sealed (RTV)
