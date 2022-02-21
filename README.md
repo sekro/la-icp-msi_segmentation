@@ -15,7 +15,16 @@ For packages see [requirements.txt](requirements.txt)
 
 # Data
 
-LA-ICP-MS imaging data
+LA-ICP-MS imaging data as ASCII files (comma seperated)
+
+Condition 1 = fresh frozen (FF)
+Condition 2 = room temperature vacuum dried and sealed (RTV)
+Condition 3 = formalin fixed (FFix)
+Condition 4 = formalin fixed, paraffin sealed (FFPS)
+
+3 replicate sectioning sets named A, B, C
+
+File-naming: LA_Data_CISN1.csv, where I = [1, 2, 3, 4] is indicating the condition used and N = [A, B, C] is indicating the replicate set
 
 # License
 
